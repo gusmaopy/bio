@@ -9,7 +9,7 @@
 
 <p>Atuei na Diretoria de Ensino - Região de Tupã no período compreendido entre 02/2014 a 12/2020.</p>
 
-<p>Atualemente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.</p>
+<p>Atualmente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.</p>
 
 <h2>Habilidades e Competências</h2>
 <ul>
