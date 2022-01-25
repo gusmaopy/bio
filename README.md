@@ -23,7 +23,7 @@
 
 <p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.</p>
 
-<p>Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:</p>
+<h2>Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:</h2>
 
 <ul>
 <li>Criar modelos preditivos com Deep Learning, Neural Networks e Series Temporais</li>
@@ -40,39 +40,58 @@
 <li>Conheça técnicas como Feature Scaling e Categorical Encoding</li>
 <li>Computação na Nuvem, tutoriais e exemplos práticos com Amazon AWS</li>
 <li>Fundamentos de Python, com estruturas de dados, Numpy e Pandas</li>
-<li>Spark com Databricks<\li>
+<li>Spark com Databricks</li>
+<li>Uso de amostragem para trabalhar com dados desbalanceados em classificação ou regressão (undersampling e oversampling)</li>
+<li>Cálculos de distribuição de frequência para aplicação de regras de associação</li>
+<li>Avaliação de algoritmos de classificação utilizando medidas de posição e dispersão</li>
+<li>Seleção de atributos utilizando cálculos de variância</li>
+<li>Preenchimento de valores faltantes em bases de dados utilizando medidas de posição</li>
+<li>Cálculo de padronização (z-score) aplicado em machine learning</li>
+<li>Tratamento de dados enviesados em machine learning</li>
+<li>Uso de distribuições estatísticas para inicialização de pesos em redes neurais artificiais</li>
+<li>Algoritmo Naïve Bayes utilizando as distribuições de Bernoulli e Multinomial</li>
+<li>Previsões com probabilidade em machine learning</li>
+<li>Uso das técnicas ANOVA e Qui Quadrado para seleção de atributos em bases de dados</li>
+<li>Testes de hipóteses paramétricos e não paramétricos, aplicados na avaliação de algoritmos</li>
+<li>Previsão do preço de casas utilizando regressão linear</li>
+<li>Criação de gráficos e mapas para ajudar na interpretação de dados</li>
 </ul>
 
 <h2>POR MEIO DAS SEGUINTES FERRAMENTAS E ATIVIDADES:</h2>
 
 <ul>  
 <li>R e Python</li>
-
 <li>Limpeza e Tratamento de Dados</li>
-
 <li>Gráficos, Visualização de Dados e Dashboards</li>
-
 <li>Estatística I: Amostragem, Medidas de Centralidade e Variabilidade, Probabilidades, Distribuição Normal</li>
-
 <li>Estatística II: Intervalos de Confiança, Testes de Hipótese, Distribuição t de Student, Distribuição Binomial, Distribuição de Poisson, Qui Quadrado, Anova</li>
-
 <li>Regressão Linear e Correlação</li>
-
 <li>Séries Temporais com Arima</li>
-
 <li>Machine Learning: Aplicações, conceitos, Classificação, Dimensionamento de Características, Codificação de Categorias, Agrupamentos, Regras de Associação.</li>
-
 <li>Artificial Neural Networks e Deep Learning</li>
-
 <li>Grafos e Redes Sociais</li>
-
-<li>Mineração de Texto</li>
-
+<li>Mineração de Dados</li>
 <li>SQL e NoSQL</li>
-
 <li>Spark com Databricks</li>
-
 <li>Computação na Nuvem com AWS</li>
+</ul>
+
+<h2> Ferramentas Específicas - resumo</h2>
+<ul>
+<li>PL / SQL</li> 
+<li>MODELAGEM DE DADOS PARA DATA WAREHOUSE</li>
+<li>TALEND</li>
+<li>POWER BI</li>
+<li>DAX</li>
+<li>TABLEAU</li>
+<li>QLIK SENSE</li>
+<li>ORACLE DATA VISUALIZATION</li>
+<li>MINERAÇÃO DE DADOS</li>
+<li>ORANGE</li>
+<li>R MARKDOWN</li>
+<li>R GGPLOT2</li>
+<li>SCRIPT LINUX</li>
+<li>CONHECIMENTO AVANÇADO EM SEGURANÇA DA INFORMAÇÃO</li>
 </ul>
 
 <h2>MÓDULO AVANÇADO - resumo</h2>
@@ -98,4 +117,6 @@
 
 <li>Classificação MultiLabel: Vamos aprender técnicas para tratar problemas de Machine Learning quando algo pode ser classificado em mais de uma classe ao mesmo tempo!</li>
 </ul>
+
+
 <h3>Minha vida se resume em estudar e compreender os conceitos que a vida nos ensina com o objetivo de transmitir as informações (à pessoas, empresas, entidades...) que estão implicitamente descritas e, para isso preciso minerar informações, pois um ponto de vista é a vista de um ponto.</h3>
