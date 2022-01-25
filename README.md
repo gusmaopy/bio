@@ -12,7 +12,7 @@ Atualemente sou Professor de Filosoifa e Tecnologia para os alunos do Ensino Mé
 
 Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento.
 
-Estou estudando e me especializando em:
+Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:
 
 
 Criar modelos preditivos com Deep Learning, Neural Networks e Series Temporais
@@ -32,7 +32,7 @@ Fundamentos de Python, com estruturas de dados, Numpy e Pandas
 Spark com Databricks
 
 
-Por meio das seguintes ferramentas e atividades
+POR MEIO DAS SEGUINTE FERRAMENTAS E ATIVIDADES:
 
   
 R e Python
@@ -64,7 +64,7 @@ Spark com Databricks
 Computação na Nuvem com AWS
 
 
-Módulo Avançado
+MÓDULO AVANÇADO
 
 Inteligência Artificial Explicável (XAI): Modelos de Machine Learning, especialmente Redes Neurais Artificiais, são conhecida com uma "caixa preta", ou seja, não é possível compreender a racionalização por traz do processo de decisão. Com técnicas de Inteligência Artificial Explicável, somos capazes de criar modelos de Machine Learning que sejam compreensíveis pela área de negócio.
 
