@@ -1,89 +1,90 @@
 # biografia
-Soft Skills
+<h1>Soft Skills<\h1>
 
-Sou Professor de Filosofia, sendo que atuo na área desde 03/2006! Neste período atuei em 11 Unidades Escolares na Região de Tupã/SP. Em 2014 fui designado Professor Coordenador de Núcleo Pedagógico na área de Filosofia e a minha função consistiu em dar suporte aos professores sobre as diversas didáticas e metodologias que podem ser empregadas para que o aluno bem compreenda os conceitos filosóficos.
+<p>Sou Professor de Filosofia, sendo que atuo na área desde 03/2006! Neste período atuei em 11 Unidades Escolares na Região de Tupã/SP. Em 2014 fui designado Professor Coordenador de Núcleo Pedagógico na área de Filosofia e a minha função consistiu em dar suporte aos professores sobre as diversas didáticas e metodologias que podem ser empregadas para que o aluno bem compreenda os conceitos filosóficos.<\p>
 
-Na Diretoria de Ensino, também atuei como Gestor responsável pelo Programa Conviva-SP, que tem como foco orientar os Diretores, Vice Diretores, Professores, Alunos, Pais e comunidade sobre a importância do aspecto emocional na convivência diária. Atuei como orientador, juntamente com a equipe de Supervisão de Ensino, junto aos Grêmios Estudantis, promovendo o engajamento dos alunos para estimular os pares sobre a importância e o comprometimento com os estudos.
-
-
-Atuei na Diretoria de Ensino - Região de Tupã no período compreendido entre 02/2014 a 12/2020. 
-
-Atualemente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.
-
-Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.
-
-Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:
+<p>Na Diretoria de Ensino, também atuei como Gestor responsável pelo Programa Conviva-SP, que tem como foco orientar os Diretores, Vice Diretores, Professores, Alunos, Pais e comunidade sobre a importância do aspecto emocional na convivência diária. Atuei como orientador, juntamente com a equipe de Supervisão de Ensino, junto aos Grêmios Estudantis, promovendo o engajamento dos alunos para estimular os pares sobre a importância e o comprometimento com os estudos.<\p>
 
 
-Criar modelos preditivos com Deep Learning, Neural Networks e Series Temporais
-Criar elementos gráficos com uso de boas práticas de visualização de dados
-Aplicar conceitos básicos de mineiração de textos
-Criar modelos de Regressão Linear e Logística
-Potencializar sua compreensão sobre outras áreas de Machine Learning, como Agrupamentos, Associadores e Seleção de Atributos
-Dominar os conceitos de Probabilidade, Intervalos de Confiança, Testes de Hipótese, Anova e Qui quadrado
-Aplicar conceitos de Grafos
-Ver cases reais das principais distribuições estatísticas: Normal, Poisson, Binomial, T de Student
-Aprenda conceitos de Gestão de Projetos
-Estude e pratique linguagem SQL
-Conheça bancos de dados NoSQL com MongoDB
-Conheça técnicas como Feature Scaling e Categorical Encoding
-Computação na Nuvem, tutoriais e exemplos práticos com Amazon AWS
-Fundamentos de Python, com estruturas de dados, Numpy e Pandas
-Spark com Databricks
+<p>Atuei na Diretoria de Ensino - Região de Tupã no período compreendido entre 02/2014 a 12/2020.<\p>
 
+<p>Atualemente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.<\p>
 
-POR MEIO DAS SEGUINTE FERRAMENTAS E ATIVIDADES:
+<p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.<\p>
 
+<p>Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:<\p>
+
+<ul>
+<li>Criar modelos preditivos com Deep Learning, Neural Networks e Series Temporais<\li>
+<li>Criar elementos gráficos com uso de boas práticas de visualização de dados<\li>
+<li>Aplicar conceitos básicos de mineiração de textos<\li>
+<li>Criar modelos de Regressão Linear e Logística<\li>
+<li>Potencializar sua compreensão sobre outras áreas de Machine Learning, como Agrupamentos, Associadores e Seleção de Atributos<\li>
+<li>Dominar os conceitos de Probabilidade, Intervalos de Confiança, Testes de Hipótese, Anova e Qui quadrado<\li>
+<li>Aplicar conceitos de Grafos<\li>
+<li>Ver cases reais das principais distribuições estatísticas: Normal, Poisson, Binomial, T de Student<\li>
+<li>Aprenda conceitos de Gestão de Projetos<\li>
+<li>Estude e pratique linguagem SQL<\li>
+<li>Conheça bancos de dados NoSQL com MongoDB<\li>
+<li>Conheça técnicas como Feature Scaling e Categorical Encoding<\li>
+<li>Computação na Nuvem, tutoriais e exemplos práticos com Amazon AWS<\li>
+<li>Fundamentos de Python, com estruturas de dados, Numpy e Pandas<\li>
+<li>Spark com Databricks<\li>
+<\ul>
+
+<h2>POR MEIO DAS SEGUINTE FERRAMENTAS E ATIVIDADES:<\h2>
+
+<ul>  
+<li>R e Python<\li>
+
+<li>Limpeza e Tratamento de Dados<\li>
+
+<li>Gráficos, Visualização de Dados e Dashboards<\li>
+
+<li>Estatística I: Amostragem, Medidas de Centralidade e Variabilidade, Probabilidades, Distribuição Normal<\li>
+
+<li>Estatística II: Intervalos de Confiança, Testes de Hipótese, Distribuição t de Student, Distribuição Binomial, Distribuição de Poisson, Qui Quadrado, Anova<\li>
+
+<li>Regressão Linear e Correlação<\li>
+
+<li>Séries Temporais com Arima<\li>
+
+<li>Machine Learning: Aplicações, conceitos, Classificação, Dimensionamento de Características, Codificação de Categorias, Agrupamentos, Regras de Associação.<\li>
+
+<li>Artificial Neural Networks e Deep Learning<\li>
+
+<li>Grafos e Redes Sociais<\li>
+
+<li>Mineração de Texto<\li>
+
+<li>SQL e NoSQL<\li>
+
+<li>Spark com Databricks<\li>
+
+<li>Computação na Nuvem com AWS<\li>
+<\ul>
+
+<h2>MÓDULO AVANÇADO - resumo<\h2>
   
-R e Python
+<ul>
+<li>Inteligência Artificial Explicável (XAI): Modelos de Machine Learning, especialmente Redes Neurais Artificiais, são conhecida com uma "caixa preta", ou seja, não é possível compreender a racionalização por traz do processo de decisão. Com técnicas de Inteligência Artificial Explicável, somos capazes de criar modelos de Machine Learning que sejam compreensíveis pela área de negócio.<\li>
 
-Limpeza e Tratamento de Dados
+<li>Engenharia de Atributos: Aqui você via aprender importantes técnicas importantes na etapa de pré-modelagem em Machine Learning, buscando criar modelos melhores.<\li>
 
-Gráficos, Visualização de Dados e Dashboards
+<li>Avaliação de Modelos: Avaliar a performance de modelos é muito importante, e a acurácia nem sempre é a métrica mais indicada. Nesta seção você vai aprender todas as principais métricas utilizadas em Machine Learning.<\li>
 
-Estatística I: Amostragem, Medidas de Centralidade e Variabilidade, Probabilidades, Distribuição Normal
+<li>Técnicas Avançadas de Clusters: Aprenda a avaliar qual é o número ideal de clusters, se foram produzidos bons clusters e se utilizamos a melhor técnica de agrupamento.<\li>
 
-Estatística II: Intervalos de Confiança, Testes de Hipótese, Distribuição t de Student, Distribuição Binomial, Distribuição de Poisson, Qui Quadrado, Anova
+<li>Introdução a Álgebra Linear: Nesta seção você vai estudar os conceitos de álgebra linear importantes para um Cientista de Dados<\li>
 
-Regressão Linear e Correlação
+<li>Cálculo para Ciência de Dados: Derivadas e Gradientes: Nesta seção você vai estudar os conceitos de Derivadas e Gradientes importantes para um Cientista de Dados<\li>
 
-Séries Temporais com Arima
+<li>Extreme Machine Learnings: Conheça esta técnica de Machine Learning que é apresentada como uma alternativa a RNA<\li>
 
-Machine Learning: Aplicações, conceitos, Classificação, Dimensionamento de Características, Codificação de Categorias, Agrupamentos, Regras de Associação.
+<li>Técnicas para Imbalanced Datasets: Como tratar dados desbalanceados? Aqui estudaremos undersampling, oversampling e smote<\li>
 
-Artificial Neural Networks e Deep Learning
+<li>AutoML: Vamos estudar como "tunar" modelos de forma automática, ou seja, ajuste automático de hiper parâmetros de modelos<\li>
 
-Grafos e Redes Sociais
-
-Mineração de Texto
-
-SQL e NoSQL
-
-Spark com Databricks
-
-Computação na Nuvem com AWS
-
-
-MÓDULO AVANÇADO
-
-Inteligência Artificial Explicável (XAI): Modelos de Machine Learning, especialmente Redes Neurais Artificiais, são conhecida com uma "caixa preta", ou seja, não é possível compreender a racionalização por traz do processo de decisão. Com técnicas de Inteligência Artificial Explicável, somos capazes de criar modelos de Machine Learning que sejam compreensíveis pela área de negócio.
-
-Engenharia de Atributos: Aqui você via aprender importantes técnicas importantes na etapa de pré-modelagem em Machine Learning, buscando criar modelos melhores.
-
-Avaliação de Modelos: Avaliar a performance de modelos é muito importante, e a acurácia nem sempre é a métrica mais indicada. Nesta seção você vai aprender todas as principais métricas utilizadas em Machine Learning.
-
-Técnicas Avançadas de Clusters: Aprenda a avaliar qual é o número ideal de clusters, se foram produzidos bons clusters e se utilizamos a melhor técnica de agrupamento.
-
-Introdução a Álgebra Linear: Nesta seção você vai estudar os conceitos de álgebra linear importantes para um Cientista de Dados
-
-Cálculo para Ciência de Dados: Derivadas e Gradientes: Nesta seção você vai estudar os conceitos de Derivadas e Gradientes importantes para um Cientista de Dados
-
-Extreme Machine Learnings: Conheça esta técnica de Machine Learning que é apresentada como uma alternativa a RNA
-
-Técnicas para Imbalanced Datasets: Como tratar dados desbalanceados? Aqui estudaremos undersampling, oversampling e smote
-
-AutoML: Vamos estudar como "tunar" modelos de forma automática, ou seja, ajuste automático de hiper parâmetros de modelos
-
-Classificação MultiLabel: Vamos aprender técnicas para tratar problemas de Machine Learning quando algo pode ser classificado em mais de uma classe ao mesmo tempo!
-
-Minha vida se resume em estudar e compreender os conceitos que a vida nos ensina e, para isso preciso minerar informações, pois um ponto de vista á a vista de um ponto.
+<li>Classificação MultiLabel: Vamos aprender técnicas para tratar problemas de Machine Learning quando algo pode ser classificado em mais de uma classe ao mesmo tempo!<\li>
+<\ul>
+<h2>Minha vida se resume em estudar e compreender os conceitos que a vida nos ensina com o objetivo de transmitir as informações (à pessoas, empresas, entidades...) que estão implicitamente descritas e, para isso preciso minerar informações, pois um ponto de vista é a vista de um ponto.<\h2>
