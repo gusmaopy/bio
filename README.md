@@ -11,7 +11,7 @@
 
 <p>Atualemente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.</p>
 
-<p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.<\p>
+<p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.</p>
 
 <p>Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:</p>
 
@@ -33,7 +33,7 @@
 <li>Spark com Databricks<\li>
 </ul>
 
-<h2>POR MEIO DAS SEGUINTE FERRAMENTAS E ATIVIDADES:</h2>
+<h2>POR MEIO DAS SEGUINTES FERRAMENTAS E ATIVIDADES:</h2>
 
 <ul>  
 <li>R e Python</li>
