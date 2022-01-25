@@ -11,6 +11,16 @@
 
 <p>Atualemente sou Professor de Filosofia e Tecnologia para os alunos do Ensino Médio.</p>
 
+<h2>Habilidades e Competências</h2>
+<ul>
+  <li>Quero migrar da área da educação para a área de Tecnologia, com o objetivo de desenvolver produtos, mostrar informações, colaborar com a humanidade em todos os aspectos.</li>
+  <li>A minha atuação é de engajamento colaborativo com os companheiros de trabalho.</li>
+  <li>Tenho como premissa a solidariedade e a emapatia na convivência diária para que o ambiente de trabalho seja produtivo, harmonioso e emocionalmente acolhedor.</li>
+  <li>Sou protagonista e gosto de desafios que inspire transformações, seja do ponto de vista coletivo (micro), quanto do ponto de vista empresarial (macro).</li>
+  <li>A Tecnologia é o gatilho que motiva todas as minhas aspirações para empreender e colaborar, em parceria com o time de trabalho, para que as pessoas tenham informações, acesso facilitado, dentre outros fatores que as pessoas necessitam em seu dia-a-dia.</li>
+
+</ul>
+
 <p>Em 2019 me inscrevi em bacharelado em Ciência da Computação, pois gosto muito de lidar com abstrações filosófico-matemáticas e sempre quis fazer este curso. O curso se encerra em 12/2023 e quero muito me especializar em Data Science para a resolução de situações-problemas e, para issso não estou medindo esforços e comprometimento; por meio da pós graduação em Arquitetura de Software, Data Science e Cibersecurity, dentre outros cursos técnicos que visam aprimorar as habilidades com Dados, Machine Learning e Inteligência Artificial.</p>
 
 <p>Além dos cursos de bacharelado e pós-graduação estou estudando e me especializando em:</p>
