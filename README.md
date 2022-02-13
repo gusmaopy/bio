@@ -1,4 +1,4 @@
-# biografia
+# Biografia
 
 <h1>Soft Skills</h1>
 
@@ -120,3 +120,11 @@
 
 
 <h3>Minha vida se resume em estudar e compreender os conceitos que a vida nos ensina com o objetivo de transmitir as informações (à pessoas, empresas, entidades...) que estão implicitamente descritas e, para isso preciso minerar informações, pois um ponto de vista é a vista de um ponto.</h3>
+
+
+
+ 
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatopy.cgusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/celso-gusmao-215a8a113" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
